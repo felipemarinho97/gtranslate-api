@@ -1,0 +1,11 @@
+{
+  "name": "gtranslate-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:felipemarinho97/gtranslate-api.git",
+  "author": "Felipe Marinho <felipevm97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-translate-open-api": "^1.3.5"
+  }
+}
