@@ -49,8 +49,8 @@ crypto-random-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
 
 debug@^3.1.0:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
+  version "3.2.7"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.7.tgz#72580b7e9145fb39b6676f9c5e5fb100b934179a"
   dependencies:
     ms "^2.1.1"
 
@@ -75,16 +75,16 @@ es6-promisify@^5.0.0:
     es6-promise "^4.0.3"
 
 follow-redirects@^1.2.5:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.0.tgz#b42e8d93a2a7eea5ed88633676d6597bc8e384db"
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.1.tgz#5f69b813376cee4fd0474a3aba835df04ab763b7"
 
 get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
 
-google-translate-open-api@^1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/google-translate-open-api/-/google-translate-open-api-1.3.5.tgz#fcd1876915dfc4bd2173f2b710d10474183fccb1"
+google-translate-open-api@^1.3.7:
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/google-translate-open-api/-/google-translate-open-api-1.3.7.tgz#f06ba9632e6a7b55d816726358555f0e09e2e86c"
   dependencies:
     "@vitalets/google-translate-token" "^1.1.0"
     axios-https-proxy-fix "^0.17.1"
@@ -155,8 +155,12 @@ make-dir@^3.0.0:
     semver "^6.0.0"
 
 ms@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
+
+node-fetch@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
 
 prepend-http@^1.0.1:
   version "1.0.4"
